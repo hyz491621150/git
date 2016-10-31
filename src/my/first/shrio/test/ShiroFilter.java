@@ -14,7 +14,7 @@ public class ShiroFilter implements Filter{
 	@Override
 	public void destroy() {
 		// TODO Auto-generated method stub
-		
+		System.out.println("you are handsome");
 	}
 
 	@Override
